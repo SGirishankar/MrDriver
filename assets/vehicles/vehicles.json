@@ -1,0 +1,361 @@
+[
+ {
+  "kind": "auto",
+  "file": "auto.fbx",
+  "maps": {
+   "map": "auto_color.png",
+   "normalMap": "auto_normal.png",
+   "roughnessMap": "auto_rough.png"
+  },
+  "credit": "\"Auto Rickshaw\" by rSquare, https://sketchfab.com/3d-models/auto-rickshaw-44776bcb34e04c1a8b9c18a70376304e (CC BY 4.0)"
+ },
+ {
+  "kind": "car",
+  "file": "m800.glb",
+  "len": 3.34,
+  "share": 0.18,
+  "paint": "primary.001",
+  "colors": [
+   "#f2f2ee",
+   "#f2f2ee",
+   "#f2f2ee",
+   "#b5121b",
+   "#1b3a8a",
+   "#d8c9a3",
+   "#b8bcc0",
+   "#6b0f1a",
+   "#2a5c3a"
+  ],
+  "credit": "This work is based on \"Maruti 800 AC\" (https://sketchfab.com/3d-models/maruti-800-ac-adcc7ff83891422d9f3dcaf55debc073) by BHP3D (https://sketchfab.com/BHP3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "flip": true,
+  "tyres": [
+   "rim_rf.003"
+  ]
+ },
+ {
+  "kind": "bike",
+  "file": "pulsar.glb",
+  "len": 2.05,
+  "share": 0.22,
+  "credit": "\"Plusar\" by raobott, https://sketchfab.com/3d-models/plusar-8a76e4c77c46435ca5371ee10ed2956e (Sketchfab Standard licence)"
+ },
+ {
+  "kind": "bike",
+  "file": "rx100.glb",
+  "len": 1.96,
+  "share": 0.18,
+  "credit": "Yamaha RX100 WIP (models\\yamaha-rx100), centre stand removed, number plate repainted TN.33 (Erode) - author/licence: see the source page. Rider: LCU LEO avatar (models\\thalapathy-vijay-leo-lcu), posed on the bike - author/licence: see the source page.",
+  "rider": "rx100_rider.glb"
+ },
+ {
+  "kind": "bike",
+  "file": "re350.glb",
+  "len": 2.14,
+  "share": 0.13,
+  "flip": true,
+  "rider": "re350_rider.glb",
+  "credit": "Royal Enfield Classic 350 (models\\royal-enfield-classic-350, BIKE.fbx) - author/licence: see the source page. Rider: LCU LEO avatar (models\\thalapathy-vijay-leo-lcu), posed on the bike - author/licence: see the source page"
+ },
+ {
+  "kind": "bike",
+  "file": "vespa.glb",
+  "len": 1.8,
+  "share": 0.22,
+  "flip": true,
+  "scooter": true,
+  "credit": "Vespa scooter (models\\vespa-scooty, model_0.obj + PBR textures) - author/licence: see the source page"
+ },
+ {
+  "kind": "car",
+  "file": "baleno.glb",
+  "len": 4.22,
+  "share": 0.14,
+  "paint": "paint",
+  "colors": [
+   "#8a0016",
+   "#c8ccd0",
+   "#f2f2ee",
+   "#1f3f8a",
+   "#1f5a3a",
+   "#3a3a3e"
+  ],
+  "credit": "Maruti Baleno 1999 (models\\Maruti_Baleno_1999.usdz, converted with three.js USDZLoader) - author/licence: see the source page"
+ },
+ {
+  "kind": "tractor",
+  "file": "tractor.glb",
+  "len": 3.3,
+  "credit": "tractor_sgw3 (models\\tractor-sgw3) - author/licence: see the source page",
+  "flip": true,
+  "doubleSide": true,
+  "recolor": {
+   "material": "tex_0026_0",
+   "colors": [
+    "#b3161b",
+    "#b3161b",
+    "#c8401a",
+    "#1f4f9a",
+    "#2f7a2f",
+    null
+   ]
+  }
+ },
+ {
+  "kind": "car",
+  "file": "swift.glb",
+  "len": 3.85,
+  "share": 0.18,
+  "paint": "CarPaint_2_AO|Carpaint_1_AO",
+  "colors": [
+   "#f2f2ee",
+   "#f2f2ee",
+   "#b3121a",
+   "#b3121a",
+   "#55585c",
+   "#c4c7ca",
+   "#1c2f5c",
+   "#d9622b"
+  ],
+  "credit": "2022 Suzuki Swift 1.2 GLX (models\\2022-suzuki-swift-12-glx, FINAL_MODEL_22.fbx) - author/licence: see the source page"
+ },
+ {
+  "kind": "bus",
+  "file": "bus.glb",
+  "len": 10.9,
+  "liveries": [
+   "bus_livery_1.jpg",
+   "bus_livery_2.jpg",
+   "bus_livery_g4.jpg",
+   "bus_livery_g4.jpg",
+   "bus_livery_p1.jpg",
+   "bus_livery_p2.jpg",
+   "bus_livery_p3.jpg"
+  ],
+  "credit": "Japanese bus - Nagoya City Bus (models\\japanese-bus-nagoya-city-bus-aichi), repainted in TNSTC and private-operator liveries with Tamil lettering - author/licence: see the source page",
+  "flip": true
+ },
+ {
+  "kind": "house",
+  "file": "house_sawan.glb",
+  "len": 8,
+  "flip": true,
+  "paint": "wall",
+  "colors": [
+   "#f2c6c9",
+   "#c9e8d4",
+   "#bfdcf2",
+   "#f4e6a1",
+   "#f6d2b0",
+   "#d9cdf0",
+   "#efe6d0",
+   "#f2f2ee"
+  ],
+  "credit": "House model by Sawan (models\\house-by-sawan, made in Prisma3D)"
+ },
+ {
+  "kind": "house",
+  "file": "house_south.glb",
+  "len": 10,
+  "flip": true,
+  "yaw": -90,
+  "credit": "South Indian house (models\\south-indian-house, Home 2 - Tripo AI conversion) - author/licence: see the source page"
+ },
+ {
+  "kind": "house",
+  "file": "house_old.glb",
+  "len": 10,
+  "flip": true,
+  "yaw": 90,
+  "credit": "This work is based on \"Indian House Old\" (https://sketchfab.com/3d-models/indian-house-old-3beb064c1ae841c5beb556b5aa267036) by bhagathartworks (https://sketchfab.com/bhagathartworks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+ },
+ {
+  "file": "house_indian.glb",
+  "kind": "house",
+  "len": 9,
+  "flip": true,
+  "credit": "This work is based on \"Indian House\" (https://sketchfab.com/3d-models/indian-house-ca3abf657ca34a839dd7b00d24220627) by Ishnt (https://sketchfab.com/mobilj697) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+ },
+ {
+  "file": "house_trad.glb",
+  "kind": "house",
+  "len": 10,
+  "flip": true,
+  "credit": "Traditional house (models\\traditional-house-designing, model.glb) - author/licence: see the source page"
+ },
+ {
+  "kind": "temple",
+  "file": "temple.glb",
+  "len": 21.7,
+  "flip": true,
+  "credit": "South Indian temple modular kit (models\\south-indian-temple-modular-kit, Modularkit_assembled.fbx) - author/licence: see the source page"
+ },
+ {
+  "kind": "lorry",
+  "file": "tata_truck.glb",
+  "len": 6.2,
+  "credit": "Tata truck (models\\tata-truck, Tripo AI model) - author/licence: see the source page"
+ },
+ {
+  "kind": "player",
+  "file": "acty.glb",
+  "len": 3.75,
+  "credit": "Honda Acty HA3 (models\\ac-honda-acty-ha3-free, honda_acty_ha3.fbx) - author/licence: see the source page"
+ },
+ {
+  "file": "kia.glb",
+  "kind": "car",
+  "len": 4.66,
+  "share": 0.14,
+  "credit": "Kia Sportage (models\\kia-sportage, Kia Sportage.fbx) - author/licence: see the source page",
+  "paint": "M_2022_Kia_Sportage__WO_Wheels__Wolf_Gray.001",
+  "colors": [
+   "#f2f2ee",
+   "#f2f2ee",
+   "#1c1c1e",
+   "#8a0f17",
+   "#53555c",
+   "#c4c7ca",
+   "#1f3a6e",
+   "#3c5a3a"
+  ],
+  "plate": {
+   "y": 0.55,
+   "front": true,
+   "rear": true
+  }
+ },
+ {
+  "file": "bolero.glb",
+  "kind": "car",
+  "len": 3.99,
+  "share": 0.16,
+  "credit": "Mahindra Bolero modified with alloy wheels (models\\bolero-car-modified-with-alloy-wheel, Bolero Car.fbx) - author/licence: see the source page",
+  "recolor": {
+   "mode": "white",
+   "material": "Bolero",
+   "colors": [
+    null,
+    null,
+    "#c4c7ca",
+    "#2b2b2d",
+    "#8a0f17",
+    "#1f3a6e",
+    "#6b5a3e",
+    "#3a4a2e"
+   ]
+  },
+  "plate": {
+   "y": 0.55,
+   "front": true,
+   "rear": true
+  }
+ },
+ {
+  "file": "cub.glb",
+  "kind": "bike",
+  "len": 1.9,
+  "share": 0.13,
+  "credit": "Honda Super Cub C90 (models\\honda-super-cub, honda cub.obj + PBR textures) - author/licence: see the source page",
+  "recolor": {
+   "material": "cub",
+   "colors": [
+    null,
+    "#b3121a",
+    "#1f4f9a",
+    "#2b2b2b",
+    "#c8401a",
+    "#5a2a6a",
+    "#d8c9a3"
+   ]
+  },
+  "plate": {
+   "y": 0.72,
+   "front": false,
+   "rear": true,
+   "scale": 0.55
+  }
+ },
+ {
+  "kind": "idol",
+  "file": "ganesha.glb",
+  "credit": "Ganesh Color (models\\ganesh-color, Ganesh Color.fbx + maps) - author/licence: see the source page"
+ },
+ {
+  "file": "yzf_r3.glb",
+  "kind": "bike",
+  "len": 2.09,
+  "share": 0.12,
+  "paint": "plastico_negro.001",
+  "colors": [
+   "#0a3cc8",
+   "#0a3cc8",
+   "#111114",
+   "#b3121a",
+   "#e8e8e8",
+   "#1b8fd6",
+   "#2e7d32"
+  ],
+  "plate": {
+   "y": 0.78,
+   "front": false,
+   "rear": true,
+   "scale": 0.5
+  },
+  "credit": "This work is based on \"yamaha yzf-r3 2017\" (https://sketchfab.com/3d-models/yamaha-yzf-r3-2017-e346487f74504cc780a4aa6b92c5ee24) by e-restrepo1114 (https://sketchfab.com/EmanuelRestrepoVelez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "flip": true
+ },
+ {
+  "file": "ambulance.glb",
+  "kind": "amb",
+  "len": 4.9,
+  "credit": "Shvan-92 ambulance low-poly model (models\\shvan-92-ambulance-low-poly-model, chvan_ambulance.fbx + textures) - author/licence: see the source page - repainted as a Tamil Nadu 108 ambulance with Tamil lettering (tools/model-prep/amb-livery.html)",
+  "plate": {
+   "y": 0.45,
+   "front": true,
+   "rear": true
+  }
+ },
+ {
+  "kind": "eeco",
+  "file": "eeco.glb",
+  "len": 3.675,
+  "credit": "This work is based on \"2024 Maruti Suzuki Eeco\" (https://sketchfab.com/3d-models/2024-maruti-suzuki-eeco-6d1931e262534c96a096b2d18bbc54b9) by BHP3D (https://sketchfab.com/BHP3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+ },
+ {
+  "kind": "car",
+  "file": "eeco_traffic.glb",
+  "len": 3.675,
+  "share": 0.2,
+  "paint": "body",
+  "colors": [
+   "#f2f2ee",
+   "#f2f2ee",
+   "#f2f2ee",
+   "#f2f2ee",
+   "#c0c3c6",
+   "#b5121b",
+   "#1b3a8a",
+   "#d8c9a3"
+  ],
+  "plate": {
+   "y": 0.45,
+   "front": true,
+   "scale": 1
+  },
+  "credit": "This work is based on \"2024 Maruti Suzuki Eeco\" (https://sketchfab.com/3d-models/2024-maruti-suzuki-eeco-6d1931e262534c96a096b2d18bbc54b9) by BHP3D (https://sketchfab.com/BHP3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) - traffic copy without the interior"
+ },
+ {
+  "kind": "bridge",
+  "file": "stone_bridge.glb",
+  "credit": "This work is based on \"Stone Bridge\" (https://sketchfab.com/3d-models/stone-bridge-38879ba7169d4944ac3ef85580f5b1a5) by xplanepilot (https://sketchfab.com/xplanepilot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+ },
+ {
+  "kind": "trainloco",
+  "file": "train_loco.glb",
+  "credit": "This work is based on \"indian train\" (https://sketchfab.com/3d-models/indian-train-b24ba2e1d2a34d54b1c133c22c9cad8a) by M.M ANIMATION STUDIO (https://sketchfab.com/animationstudiomm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/) - cut into locomotive and coach"
+ },
+ {
+  "kind": "traincoach",
+  "file": "train_coach.glb"
+ }
+]
